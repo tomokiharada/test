@@ -1,1 +1,3 @@
 hogehoge
+
+select * from hogehoge;
