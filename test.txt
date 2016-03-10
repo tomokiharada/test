@@ -6,3 +6,5 @@ select hogeohoge
 from rnnwrk.hogehoge;
 
 hogehoge
+
+kosesan sukisuki
