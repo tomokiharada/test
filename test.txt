@@ -4,3 +4,5 @@ fugafuga
 
 select hogeohoge
 from rnnwrk.hogehoge;
+
+hogehoge
